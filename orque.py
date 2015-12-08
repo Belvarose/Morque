@@ -72,7 +72,7 @@ config.map.layout[config.pL[0].location[0]][config.pL[0].location[1]].itemList.a
 """ Initial map """
 config.map.printMap(0,1)
 
-#ui = UI()
+ui = UI()
 
 def removeDeadPlayers():
 	print('removing dead players')
